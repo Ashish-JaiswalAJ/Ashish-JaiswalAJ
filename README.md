@@ -87,7 +87,7 @@ Designed multiple **mobile and web UI interfaces** using Figma.
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-jaiswalaj&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-JaiswalAJ&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
