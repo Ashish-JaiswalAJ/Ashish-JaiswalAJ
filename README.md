@@ -92,6 +92,15 @@ Designed multiple **mobile and web UI interfaces** using Figma.
 
 ---
 
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+
 # 🌐 Connect With Me
 
 <p align="center">
