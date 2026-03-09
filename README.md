@@ -9,44 +9,50 @@
 ## 👨‍💻 About Me
 
 🎓 B.Tech **Computer Science Engineering Student** at **MMDU Mullana**  
-📱 Learning **Flutter App Development** and building mobile apps  
-🎨 UI/UX Designer using **Figma, Photoshop, Canva**  
-🚀 Interested in **Software Development, Mobile Apps, and Emerging Technologies**  
-🏆 Participant in **HackVision Hackathon**  
-🥇 **Logo Design Competition Winner**
+📱 Passionate about **Flutter App Development**  
+🎨 **UI/UX Designer** who enjoys designing clean and user-friendly interfaces  
+🚀 Interested in **Mobile Development, Software Engineering, and Emerging Technologies**  
+🏆 Hackathon participant and continuous learner in the development field  
 
 ---
 
 ## 🚀 Current Focus
 
-- 📱 Flutter Mobile App Development  
-- 🔥 Firebase Authentication & Backend Integration  
-- 🎨 UI/UX Design in Figma  
-- 💻 Strengthening Problem Solving & Programming Skills  
+- 📱 Building **Flutter Mobile Applications**
+- 🔥 Integrating **Firebase Authentication**
+- 🎨 Designing modern interfaces using **Figma**
+- 💻 Improving **problem-solving and development skills**
 
 ---
 
 # 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
 
 ### 📱 App Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### 🎨 Design Tools
+### 🎨 UI / UX Design
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+---
+
 ### 🔥 Backend & Tools
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -58,14 +64,11 @@
 📱 **Flutter Payment App**  
 A mobile payment interface with **Firebase Authentication integration**.
 
-💬 **WhatsApp Clone (Flutter UI)**  
-Messaging UI inspired by WhatsApp using Flutter.
+💬 **WhatsApp UI Clone (Flutter)**  
+A Flutter-based messaging UI inspired by WhatsApp.
 
-📊 **Queue Management Platform**  
-Web-based system for **QR token queue management** for organizations.
-
-📚 **Student Notes Sharing Platform**  
-A platform for students to share **notes and previous year questions**.
+🎨 **UI/UX Design Projects**  
+Designed multiple **mobile and web UI interfaces** using Figma.
 
 ---
 
@@ -85,14 +88,6 @@ A platform for students to share **notes and previous year questions**.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-jaiswalaj&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
