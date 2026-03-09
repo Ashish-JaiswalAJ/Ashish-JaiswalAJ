@@ -76,9 +76,9 @@ Designed multiple **mobile and web UI interfaces** using Figma.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish-JaiswalAJ&show_icons=true&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashish-JaiswalAJ&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-JaiswalAJ&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ashish-JaiswalAJ&theme=tokyonight"/>
 
 </p>
 
@@ -88,7 +88,7 @@ Designed multiple **mobile and web UI interfaces** using Figma.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-JaiswalAJ&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-JaiswalAJ&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 
 </p>
 
