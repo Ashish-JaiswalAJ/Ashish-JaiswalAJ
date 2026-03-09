@@ -76,9 +76,9 @@ Designed multiple **mobile and web UI interfaces** using Figma.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashish-jaiswalaj&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish-JaiswalAJ&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-jaiswalaj&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-JaiswalAJ&theme=tokyonight"/>
 
 </p>
 
@@ -87,11 +87,12 @@ Designed multiple **mobile and web UI interfaces** using Figma.
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-JaiswalAJ&layout=compact&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-JaiswalAJ&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
-
 # 🐍 Contribution Snake Animation
 
 <p align="center">
